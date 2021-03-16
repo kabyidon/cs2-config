@@ -7,7 +7,7 @@ Put `cfg` folder in `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strik
 **Gameplay binds**
 - `mwheeldown` jump
 - `f` clear decals/don't talking please
-- `h` jumpthrow
+- `mouse4` jumpthrow
 - `capslock` mute team
 - `f1` run autoexec/display bind help
 - `x` flashbang
